@@ -2,7 +2,16 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+    <variables>
+        <primary-color>forest</primary-color>
+        <color-preset>soft</color-preset>
+        <custom-favicons>A.png</custom-favicons>
+        <header-logo>B.png</header-logo>
+        <product-web-url>https://help.example.com</product-web-url>
+        <download-title>This project's repository</download-title>
+        <download-page>https://github.com/AlienHO/Flux</download-page>
+        <showDownloadButton>true</showDownloadButton>
+    </variables>
     <build-profile instance="hi">
         <variables>
             <noindex-content>true</noindex-content>
