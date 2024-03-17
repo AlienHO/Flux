@@ -1,3 +1,98 @@
 # 项目核心
 
-Start typing here...
+<table>
+<thead>
+<tr>
+<th><strong>系统开发/Development</strong></th>
+<th><strong>视觉设计/Visual Design</strong></th>
+<th><strong>影视制作/T.V. Production</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<ol>
+<li><strong>技术基础和虚拟环境构建</strong>
+    <ul>
+    <li>学习混合现实基本概念</li>
+    <li>研究HoloLens 2准备开发工具</li>
+    <li>创建基本的五行元素虚拟环境</li>
+    </ul>
+</li>
+<li><strong>互动功能开发</strong>
+    <ul>
+    <li>实现简易用户互动</li>
+    <li>开发五行场景交互</li>
+    <li>制作视觉和声音反馈</li>
+    <li>实现三维空间定位</li>
+    </ul>
+</li>
+<li><strong>用户界面与导航</strong>
+    <ul>
+    <li>设计简单用户界面和导航</li>
+    <li>集成基础动态音效</li>
+    </ul>
+</li>
+<li><strong>测试和优化</strong>
+    <ul>
+    <li>将应用从iPad迁移到HoloLens 2</li>
+    <li>进行系统集成测试与优化</li>
+    </ul>
+</li>
+</ol>
+</td>
+<td>
+<ol>
+<li><strong>视觉概念与初步设计</strong>
+    <ul>
+    <li>确定整体美术风格和主题</li>
+    <li>创造五行元素的色彩方案、图形和纹理</li>
+    <li>制作每个元素的基础三维模型和初步场景布局</li>
+    </ul>
+</li>
+<li><strong>制作基础动画和音效</strong>
+    <ul>
+    <li>制作基础的动态效果</li>
+    <li>创建基本音效和背景音乐</li>
+    </ul>
+</li>
+<li><strong>用户界面与导航开发</strong>
+    <ul>
+    <li>设计基础用户界面</li>
+    <li>制作简单导航元素</li>
+    </ul>
+</li>
+<li><strong>优化艺术资源</strong>
+    <ul>
+    <li>调整模型和纹理以适应技术要求</li>
+    </ul>
+</li>
+</ol>
+</td>
+<td>
+<ol>
+<li><strong>脚本撰写和故事板制作</strong>
+    <ul>
+    <li>撰写一个基本的视频脚本</li>
+    <li>制作简化故事板</li>
+    <li>明确视频的基本结构和主要镜头</li>
+    </ul>
+</li>
+<li><strong>基础拍摄和录制</strong>
+    <ul>
+    <li>安排摄影场地和拍摄计划</li>
+    <li>捕捉项目的关键环节和用户体验</li>
+    </ul>
+</li>
+<li><strong>剪辑与基本后期</strong>
+    <ul>
+    <li>编辑重要片段</li>
+    <li>增加背景音乐和音效</li>
+    <li>制作清晰字幕</li>
+    </ul>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
