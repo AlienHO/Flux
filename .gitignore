@@ -1,0 +1,14 @@
+
+*.csproj
+
+*.sln
+
+MRTK/A_test/MRTK_test/UserSettings/
+
+MRTK/A_test/MRTK_test/Temp/
+
+MRTK/A_test/MRTK_test/Logs/
+
+MRTK/A_test/MRTK_test/ProjectSettings/
+
+MRTK/A_test/MRTK_test/Library/
